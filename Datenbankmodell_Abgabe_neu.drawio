@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T14:59:19.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CH57gaD8j2SHwwPDejki" version="22.0.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-06T15:00:01.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3R0Lv6Z4tqpiHxqNTbTn" version="22.0.8" type="github" pages="7">
   <diagram id="VUXwpdqvsjDYo4JakPXj" name="Seite-1">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1055,6 +1055,12 @@
               <mxPoint x="490" y="762.63" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2bscbMLYn991652EpKpB-2" value="Invoice/purchaseLines überdenken, je nach Anforderungen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="428" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2bscbMLYn991652EpKpB-3" value="Supplier bei Lagerhaltung???" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="458" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
