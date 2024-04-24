@@ -1,0 +1,27 @@
+{
+  "realm" : "EventManagement",
+  "users" : [ {
+    "id" : "8107987a-2d45-4b1d-a122-cbc4b54df5b3",
+    "username" : "user",
+    "firstName" : "Student",
+    "lastName" : "JKU",
+    "email" : "student@jku.at",
+    "emailVerified" : false,
+    "createdTimestamp" : 1713196361745,
+    "enabled" : true,
+    "totp" : false,
+    "credentials" : [ {
+      "id" : "70ff7f3d-f72c-4b56-a7b0-d716de58d18a",
+      "type" : "password",
+      "userLabel" : "My password",
+      "createdDate" : 1713196385335,
+      "secretData" : "{\"value\":\"5YyFjaEUC8kNrVL+lwd3mqsuXD86Z6saMfY2POYzhGmeqt/MIxll/4lkc4Cs2iX/VitFx5bsKJRWTf5QJ1jqQw==\",\"salt\":\"k93J+7Om4IiVmAEZdLTVfg==\",\"additionalParameters\":{}}",
+      "credentialData" : "{\"hashIterations\":210000,\"algorithm\":\"pbkdf2-sha512\",\"additionalParameters\":{}}"
+    } ],
+    "disableableCredentialTypes" : [ ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "default-roles-eventmanagement" ],
+    "notBefore" : 0,
+    "groups" : [ ]
+  } ]
+}
